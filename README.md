@@ -22,3 +22,4 @@ Here the file is update on "your" drive.
 During the insert function is very important the param "convert=True" that can permit the conversion from the microsoft office mimetype to the google drive worksheet mimetype
 
 CAVEAT : you should have your creedential in a file "google_secret.json", in this case, of your google application.
+Here you can find more info about the google api credentials https://developers.google.com/adwords/api/docs/guides/authentication.
